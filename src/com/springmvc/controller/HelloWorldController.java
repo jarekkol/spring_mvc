@@ -14,8 +14,8 @@ public class HelloWorldController {
          
         //model.addAttribute(" ", "Hello Spring MVC2");
         
-       return "welcome";
-        //return "helloworld";
+       //return "welcome";
+       return "helloworld";
          
     }
  
